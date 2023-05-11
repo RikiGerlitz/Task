@@ -1,3 +1,6 @@
 [submodule "HomeTask"]
 	path = HomeTask
 	url = https://github.com/RikiGerlitz/HomeTask.git
+[submodule "Home-Task"]
+	path = Home-Task
+	url = https://github.com/RikiGerlitz/Home-Task.git
