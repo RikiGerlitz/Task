@@ -1,0 +1,3 @@
+[submodule "HomeTask"]
+	path = HomeTask
+	url = https://github.com/RikiGerlitz/HomeTask.git
